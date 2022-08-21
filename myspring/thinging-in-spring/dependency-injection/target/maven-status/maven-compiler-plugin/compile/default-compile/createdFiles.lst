@@ -1,0 +1,14 @@
+org/example/thinking/in/spring/ioc/dependency/injection/UserHolder.class
+org/example/thinking/in/spring/ioc/dependency/injection/annotation/MyAutowired.class
+org/example/thinking/in/spring/ioc/dependency/injection/AnnotationDependencyFieldInjectionDemo.class
+org/example/thinking/in/spring/ioc/dependency/injection/LazyAnnotationDependencyInjectionDemo.class
+org/example/thinking/in/spring/ioc/dependency/injection/AutoWiringByNameDependencySetterInjectionDemo.class
+org/example/thinking/in/spring/ioc/dependency/injection/AnnotationDependencyInjectionDemo.class
+org/example/thinking/in/spring/ioc/dependency/injection/AnnotationDependencyInjectionResolutionDemo.class
+org/example/thinking/in/spring/ioc/dependency/injection/AnnotationDependencyMethodInjectionDemo.class
+org/example/thinking/in/spring/ioc/dependency/injection/AwareInterfaceDependencyInjectionDemo.class
+org/example/thinking/in/spring/ioc/dependency/injection/annotation/UserGroup.class
+org/example/thinking/in/spring/ioc/dependency/injection/XmlDependencySetterInjection.class
+org/example/thinking/in/spring/ioc/dependency/injection/annotation/InjectedUser.class
+org/example/thinking/in/spring/ioc/dependency/injection/ApiDependencyInjectionDemo.class
+org/example/thinking/in/spring/ioc/dependency/injection/QualifierAnnotationDependencyInjectionDemo.class

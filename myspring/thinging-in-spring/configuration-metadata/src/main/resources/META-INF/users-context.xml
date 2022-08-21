@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:users="http://time.geekbang.org/schema/users"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd
+        http://time.geekbang.org/schema/users
+        http://time.geekbang.org/schema/users.xsd
+">
+
+        <users:user id="1" name="李龙敏" city="BEIJING"/>
+</beans>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd
+         http://www.springframework.org/schema/context  https://www.springframework.org/schema/context/spring-context.xsd">
+<!--        <context:annotation-config/>-->
+<!--        <context:component-scan base-package="com.acme"/>-->
+        <!--加上了primary以后，表示是最主要的bean，如果通过类型加载，有不止一个同类型的bean的时候，优先加载这个,不加的话按照类型加载会出错-->
+        <!-- BeanDefinition不需要合并，不存在parent,实际上下面这个bean也是一个普通的Generic的BeanDefinition，但是还是会经过合并的操作，合并以后就会变成Root的-->
+        <bean id="user" class="org.example.thinking.in.spring.ioc.overview.domain.User">
+                <property name="id" value="1"/>
+                <property name="name" value="李龙敏"/>
+                <property name="city" value="BEIJING"/>
+                <property name="workCities" value="BEIJING,SHANGHAI"/>
+<!--                <property name="lifeCities" value="BEIJING,GUANGZHOU"/>-->
+                <!--还有另外一种方式-->
+                <property name="lifeCities">
+                        <list>
+                                <value>BEIJING</value>
+                                <value>SHANGHAI</value>
+                        </list>
+                </property>
+        </bean>
+        <!--普通 beanDefinition GenericBeanDefinition-->
+        <!--合并以后它也会变成一个RootBeanDefinition-->
+        <bean id="objectFactoryCreatingFactoryBean" class="org.springframework.beans.factory.config.ObjectFactoryCreatingFactoryBean">
+                <property name="targetBeanName" value="user"/>
+        </bean>
+        <!--这个还可以设置自己的父类-->
+        <bean id="superUser" class="org.example.thinking.in.spring.ioc.overview.domain.SuperUser" parent="user"
+              primary="true">
+                <property name="address" value="南京"/>
+        </bean>
+</beans>

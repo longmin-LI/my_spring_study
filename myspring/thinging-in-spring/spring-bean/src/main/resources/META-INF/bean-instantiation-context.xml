@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--导入第三方Spring XML配置文件-->
+    <import resource="dependency-lookup-context.xml"/>
+    <!--静态方法实例化 Bean-->
+    <bean id="user-by-static-factory" class="org.example.thinking.in.spring.ioc.overview.domain.User" factory-method="createUser">
+    </bean>
+    <!--实例（Bean)的方法来创建-->
+    <bean id="user-by-instance-method" factory-bean="userFactory" factory-method="createUser"/>
+    <!--对象工厂，我们把他作为一个Bean-->
+    <bean id="userFactory" class="org.example.thinking.in.spring.bean.factory.DefaultUserFactory"/>
+    <!--通过FactoryBean 实例化,注意这里是不会直接产生一个User对象，产生的bean是UserFactoryBean-->
+    <bean id="user-by-factory-bean" class="org.example.thinking.in.spring.bean.factory.UserFactoryBean"/>
+
+</beans>

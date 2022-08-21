@@ -1,0 +1,6 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µˆœÑ8î®ŸÑœ0
+v
+java:S1128"TRemove this unused import 'org.example.thinking.in.spring.ioc.overview.domain.User'.(§§Ñ·ÿÿÿÿÿ8¹íÑœ0
+
+java:S1128"_Remove this unused import 'org.springframework.beans.factory.config.YamlPropertiesFactoryBean'.(ÈÆ—Éşÿÿÿÿ8ºíÑœ0

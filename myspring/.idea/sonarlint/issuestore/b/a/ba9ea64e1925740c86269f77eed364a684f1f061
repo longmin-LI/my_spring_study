@@ -1,0 +1,11 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(»ΛΣµ
+‚
+java:S1128"`Remove this unused import 'org.springframework.beans.factory.config.FieldRetrievingFactoryBean'.(‚‡θΫÿÿÿÿÿ8ληγ«›0
+z
+java:S1128"]Remove this unused import 'org.springframework.beans.factory.config.PropertyPathFactoryBean'.(£ΝΒ8ληγ«›0
+z
+java:S1128"]Remove this unused import 'org.springframework.beans.factory.support.AbstractBeanDefinition'.(φϊσχ8ληγ«›0
+T
+java:S1128"7Remove this unused import 'sun.reflect.misc.FieldUtil'.(»ΛΣµ8ληγ«›0

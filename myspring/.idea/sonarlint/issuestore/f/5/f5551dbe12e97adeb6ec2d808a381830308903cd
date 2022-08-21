@@ -1,0 +1,11 @@
+
+U
+java:S1854"?Remove this useless assignment to local variable "userFactory".(¡›‹
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ò×ŞĞüÿÿÿÿ
+F
+java:S1481"0Remove this unused "userFactory" local variable.(¡›‹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¦ğ 
+S	java:S106"9Replace this use of System.out or System.err by a logger.(òüÚûÿÿÿÿ
+E
+java:S1128
+"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ

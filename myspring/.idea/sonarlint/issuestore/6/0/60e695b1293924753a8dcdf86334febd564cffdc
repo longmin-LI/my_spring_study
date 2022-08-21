@@ -1,0 +1,21 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(ðŸÉû
+E
+java:S3740"/Provide the parametrized type for this generic.(‹ÄÙñ
+J
+java:S3740"/Provide the parametrized type for this generic.(…šçžýÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "rowType".(…šçžýÿÿÿÿ
+Z
+java:S1854"DRemove this useless assignment to local variable "objectArrayClass".(‹ÄÙñ
+R
+java:S1854"<Remove this useless assignment to local variable "intClass".(ðŸÉû
+C
+java:S1481"-Remove this unused "intClass" local variable.(ðŸÉû
+K
+java:S1481"5Remove this unused "objectArrayClass" local variable.(‹ÄÙñ
+G
+java:S1481",Remove this unused "rowType" local variable.(…šçžýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÄììÃ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ

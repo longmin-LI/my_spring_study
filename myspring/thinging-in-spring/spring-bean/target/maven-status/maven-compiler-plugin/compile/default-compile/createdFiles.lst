@@ -1,0 +1,11 @@
+org/example/thinking/in/spring/bean/definition/SpecialBeanInstantiationDemo.class
+org/example/thinking/in/spring/bean/factory/DefaultUserFactory.class
+org/example/thinking/in/spring/bean/definition/BeanDefinitionCreate.class
+org/example/thinking/in/spring/bean/definition/BeanInstantiationDemo.class
+org/example/thinking/in/spring/bean/definition/BeanInitializationDemo.class
+org/example/thinking/in/spring/bean/definition/AnnotationBeanDefinitionDemo.class
+org/example/thinking/in/spring/bean/factory/UserFactoryBean.class
+org/example/thinking/in/spring/bean/definition/SingletonBeanRegistryDemo.class
+org/example/thinking/in/spring/bean/definition/BeanAliasDemo.class
+org/example/thinking/in/spring/bean/factory/UserFactory.class
+org/example/thinking/in/spring/bean/definition/AnnotationBeanDefinitionDemo$Config.class

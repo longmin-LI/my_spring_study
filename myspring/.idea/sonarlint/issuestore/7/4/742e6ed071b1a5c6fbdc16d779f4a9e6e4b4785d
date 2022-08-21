@@ -1,0 +1,23 @@
+
+`	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112…"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+E
+java:S3740T"/Provide the parametrized type for this generic.(‹œ‘»
+|
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "resource".(¾º©ıÿÿÿÿ
+Y
+java:S1163…"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ
+P
+java:S1143…"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(â“›ã
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ïğ„ıÿÿÿÿ
+h
+java:S3776M"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(†›é°
+E
+java:S2093R"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+:
+java:S1168w"$Return an empty map instead of null.(¥¹ï
+Y
+java:S1117"BRename "resourceLoader" which hides the field declared at line 39.(—Ÿ™
+T	java:S106¨"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ

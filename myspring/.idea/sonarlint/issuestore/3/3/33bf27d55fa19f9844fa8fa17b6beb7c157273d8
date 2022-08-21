@@ -1,0 +1,9 @@
+
+U
+java:S1854"?Remove this useless assignment to local variable "echoService".(Ëæ¥Þ
+F
+java:S1481"0Remove this unused "echoService" local variable.(Ëæ¥Þ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ë²‡üüÿÿÿÿ
+n
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(¤¾Ñäýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Â¡çïÿÿÿÿÿ

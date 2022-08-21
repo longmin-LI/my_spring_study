@@ -1,0 +1,13 @@
+
+a
+java:S1192)"KDefine a constant instead of duplicating this literal "userHolder" 3 times.(”ÛæŞ
+P
+java:S1161'":Add the "@Override" annotation above this method signature(Ï¢å
+Q	java:S1257"<This block of commented-out lines of code should be removed.(óÈ‘ş
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(’ŸÙûÿÿÿÿ
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(‡©ŠÜøÿÿÿÿ8¹ó¶±˜0
+l
+java:S1128"WRemove this unused import 'org.springframework.beans.factory.config.BeanPostProcessor'.(âŠÍr
+Z
+java:S1128
+"ERemove this unused import 'org.springframework.util.CollectionUtils'.(åå…K

@@ -1,0 +1,16 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(ÿßëÚÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(§ì®
+Q	java:S125"<This block of commented-out lines of code should be removed.(§ë‚ú
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Œ÷Ö‰ùÿÿÿÿ
+V	java:S125#"<This block of commented-out lines of code should be removed.(çˆïŒüÿÿÿÿ
+Q	java:S125&"<This block of commented-out lines of code should be removed.(ãÑüÏ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(îà¾½
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(Ö’Èë
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(Ò„Õ®üÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(éïİ ıÿÿÿÿ
+o
+java:S1128"TRemove this unused import 'org.example.thinking.in.spring.ioc.overview.domain.User'.(§§Ñ·ÿÿÿÿÿ
+e
+java:S1128"JRemove this unused import 'org.springframework.beans.factory.BeanFactory'.(ĞÚû±ıÿÿÿÿ

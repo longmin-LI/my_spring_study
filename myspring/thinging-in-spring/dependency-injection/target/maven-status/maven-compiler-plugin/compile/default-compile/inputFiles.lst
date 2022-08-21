@@ -1,0 +1,14 @@
+/Users/lilongmin/local/proj/myspring/thinging-in-spring/dependency-injection/src/main/java/org/example/thinking/in/spring/ioc/dependency/injection/annotation/UserGroup.java
+/Users/lilongmin/local/proj/myspring/thinging-in-spring/dependency-injection/src/main/java/org/example/thinking/in/spring/ioc/dependency/injection/AnnotationDependencyInjectionResolutionDemo.java
+/Users/lilongmin/local/proj/myspring/thinging-in-spring/dependency-injection/src/main/java/org/example/thinking/in/spring/ioc/dependency/injection/AnnotationDependencyInjectionDemo.java
+/Users/lilongmin/local/proj/myspring/thinging-in-spring/dependency-injection/src/main/java/org/example/thinking/in/spring/ioc/dependency/injection/UserHolder.java
+/Users/lilongmin/local/proj/myspring/thinging-in-spring/dependency-injection/src/main/java/org/example/thinking/in/spring/ioc/dependency/injection/annotation/InjectedUser.java
+/Users/lilongmin/local/proj/myspring/thinging-in-spring/dependency-injection/src/main/java/org/example/thinking/in/spring/ioc/dependency/injection/ApiDependencyInjectionDemo.java
+/Users/lilongmin/local/proj/myspring/thinging-in-spring/dependency-injection/src/main/java/org/example/thinking/in/spring/ioc/dependency/injection/annotation/MyAutowired.java
+/Users/lilongmin/local/proj/myspring/thinging-in-spring/dependency-injection/src/main/java/org/example/thinking/in/spring/ioc/dependency/injection/LazyAnnotationDependencyInjectionDemo.java
+/Users/lilongmin/local/proj/myspring/thinging-in-spring/dependency-injection/src/main/java/org/example/thinking/in/spring/ioc/dependency/injection/AnnotationDependencyFieldInjectionDemo.java
+/Users/lilongmin/local/proj/myspring/thinging-in-spring/dependency-injection/src/main/java/org/example/thinking/in/spring/ioc/dependency/injection/AwareInterfaceDependencyInjectionDemo.java
+/Users/lilongmin/local/proj/myspring/thinging-in-spring/dependency-injection/src/main/java/org/example/thinking/in/spring/ioc/dependency/injection/QualifierAnnotationDependencyInjectionDemo.java
+/Users/lilongmin/local/proj/myspring/thinging-in-spring/dependency-injection/src/main/java/org/example/thinking/in/spring/ioc/dependency/injection/XmlDependencySetterInjection.java
+/Users/lilongmin/local/proj/myspring/thinging-in-spring/dependency-injection/src/main/java/org/example/thinking/in/spring/ioc/dependency/injection/AnnotationDependencyMethodInjectionDemo.java
+/Users/lilongmin/local/proj/myspring/thinging-in-spring/dependency-injection/src/main/java/org/example/thinking/in/spring/ioc/dependency/injection/AutoWiringByNameDependencySetterInjectionDemo.java

@@ -1,0 +1,12 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(çÎ¹ÿÿÿÿÿ
+g
+java:S3457+"Q%n should be used in place of \n to produce the platform-specific line separator.(½»ú°
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(½»ú°
+g
+java:S3457/"Q%n should be used in place of \n to produce the platform-specific line separator.(½¼¡÷
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(½¼¡÷
+^
+java:S1128	"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Ş
+P
+java:S1144*"5Remove this unused private "displayLocalBean" method.(ÙÉæ«üÿÿÿÿ

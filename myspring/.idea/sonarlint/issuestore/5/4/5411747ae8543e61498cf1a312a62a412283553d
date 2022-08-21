@@ -1,0 +1,25 @@
+
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Úğ©èûÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(Ø¼¢ƒ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(Áåè—
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ÿä÷ğ
+P
+java:S1161H":Add the "@Override" annotation above this method signature(Ï¢å
+Q	java:S125X"<This block of commented-out lines of code should be removed.(óÈ‘ş
+t
+java:S1128"YRemove this unused import 'org.example.thinking.in.spring.ioc.overview.annotation.Super'.(ÚËºŸşÿÿÿÿ
+Z
+java:S1128"DRemove this unused import 'org.springframework.beans.PropertyValue'.(ü×
+{
+java:S1128
+"eRemove this unused import 'org.springframework.beans.factory.config.ConfigurableListableBeanFactory'.(“èµ
+€
+java:S1128"eRemove this unused import 'org.springframework.beans.factory.support.PropertiesBeanDefinitionReader'.(­òÔùÿÿÿÿ
+z
+java:S1128"_Remove this unused import 'org.springframework.context.support.ClassPathXmlApplicationContext'.(•ËÛüÿÿÿÿ
+e
+java:S1128"JRemove this unused import 'org.springframework.core.io.ClassPathResource'.(İ¹º§ıÿÿÿÿ
+W
+java:S1128"ARemove this unused import 'org.springframework.core.io.Resource'.(¹ÒÁ
+k
+java:S1128"PRemove this unused import 'org.springframework.core.io.support.EncodedResource'.(ƒÕ†şÿÿÿÿ

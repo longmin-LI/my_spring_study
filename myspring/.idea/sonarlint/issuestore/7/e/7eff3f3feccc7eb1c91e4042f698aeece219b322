@@ -1,0 +1,8 @@
+
+C
+java:S1075"&Remove this hard-coded path-delimiter.(éƒ£å8Úç £0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(–ææá8Ìµ·£0
+`
+java:S1128"KRemove this unused import 'org.springframework.core.io.FileSystemResource'.(°ü‘4
+?
+java:S1128	")Remove this unused import 'java.io.File'.(†Ğ¥Å
