@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dependency-lookup-1.0-SNAPSHOT1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/my_spring_study/thinging-in-spring/dependency-lookup/target/dependency-lookup-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

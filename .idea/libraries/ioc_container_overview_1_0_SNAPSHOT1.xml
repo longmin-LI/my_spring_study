@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ioc-container-overview-1.0-SNAPSHOT1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/my_spring_study/thinging-in-spring/ioc-container-overview/target/ioc-container-overview-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

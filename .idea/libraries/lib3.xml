@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/my_spring_study/thinging-in-spring/.extract/webapps/ROOT/WEB-INF/lib/spring-jdbc-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my_spring_study/thinging-in-spring/.extract/webapps/ROOT/WEB-INF/lib/spring-beans-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my_spring_study/thinging-in-spring/.extract/webapps/ROOT/WEB-INF/lib/spring-expression-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my_spring_study/thinging-in-spring/.extract/webapps/ROOT/WEB-INF/lib/spring-webmvc-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my_spring_study/thinging-in-spring/.extract/webapps/ROOT/WEB-INF/lib/reactor-core-3.3.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my_spring_study/thinging-in-spring/.extract/webapps/ROOT/WEB-INF/lib/spring-aop-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my_spring_study/thinging-in-spring/.extract/webapps/ROOT/WEB-INF/lib/spring-context-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my_spring_study/thinging-in-spring/.extract/webapps/ROOT/WEB-INF/lib/spring-core-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my_spring_study/thinging-in-spring/.extract/webapps/ROOT/WEB-INF/lib/spring-tx-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my_spring_study/thinging-in-spring/.extract/webapps/ROOT/WEB-INF/lib/reactive-streams-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my_spring_study/thinging-in-spring/.extract/webapps/ROOT/WEB-INF/lib/ioc-container-overview-1.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my_spring_study/thinging-in-spring/.extract/webapps/ROOT/WEB-INF/lib/spring-webflux-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my_spring_study/thinging-in-spring/.extract/webapps/ROOT/WEB-INF/lib/spring-jcl-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my_spring_study/thinging-in-spring/.extract/webapps/ROOT/WEB-INF/lib/spring-web-5.2.2.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
