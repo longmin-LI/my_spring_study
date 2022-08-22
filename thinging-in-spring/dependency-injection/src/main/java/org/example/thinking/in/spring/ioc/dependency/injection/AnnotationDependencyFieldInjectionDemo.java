@@ -16,7 +16,7 @@ public class AnnotationDependencyFieldInjectionDemo {
     @Autowired //Autowired他会忽略掉静态字段具体的可以看AutowiredAnnotationBeanPostProcess里面的实现
     private UserHolder userHolder;
 
-    @Resource // 依赖注册可以注入多次
+    @Resource // 依赖注入可以注入多次
     private UserHolder userHolder2;
 
     public static void main(String[] args) {
