@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/thinging-in-spring/annotations/annotations.iml" filepath="$PROJECT_DIR$/thinging-in-spring/annotations/annotations.iml" />
       <module fileurl="file://$PROJECT_DIR$/thinging-in-spring/aop-features/aop-features.iml" filepath="$PROJECT_DIR$/thinging-in-spring/aop-features/aop-features.iml" />
       <module fileurl="file://$PROJECT_DIR$/thinging-in-spring/bean-lifecycle/bean-lifecycle.iml" filepath="$PROJECT_DIR$/thinging-in-spring/bean-lifecycle/bean-lifecycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/thinging-in-spring/bean-scope/bean-scope.iml" filepath="$PROJECT_DIR$/thinging-in-spring/bean-scope/bean-scope.iml" />

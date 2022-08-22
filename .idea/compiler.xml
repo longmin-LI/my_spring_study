@@ -13,6 +13,7 @@
         <module name="valIdation" />
         <module name="aop-features" />
         <module name="il8n" />
+        <module name="annotations" />
         <module name="generic" />
         <module name="configuration-metadata" />
         <module name="dependency-source" />
@@ -26,6 +27,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="annotations" target="8" />
       <module name="aop-features" target="8" />
       <module name="bean-lifecycle" target="8" />
       <module name="bean-scope" target="8" />

@@ -9,6 +9,8 @@
 <!--        <context:component-scan base-package="com.acme"/>-->
         <!--加上了primary以后，表示是最主要的bean，如果通过类型加载，有不止一个同类型的bean的时候，优先加载这个,不加的话按照类型加载会出错-->
         <!-- BeanDefinition不需要合并，不存在parent,实际上下面这个bean也是一个普通的Generic的BeanDefinition，但是还是会经过合并的操作，合并以后就会变成Root的-->
+
+
         <bean id="user" class="org.example.thinking.in.spring.ioc.overview.domain.User">
                 <property name="id" value="1"/>
                 <property name="name" value="李龙敏"/>

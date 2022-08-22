@@ -44,9 +44,17 @@ public class AsyncEventHandlerDemo {
                 }
             });
 
-//            simpleApplicationEventMulticaster.setErrorHandler();
+            simpleApplicationEventMulticaster.setErrorHandler(e -> {
+                System.err.println("当Spring事件异常时，原因：" + e.getMessage());
+            });
         }
 
+        context.addApplicationListener(new ApplicationListener<MySpringEvent>() {
+            @Override
+            public void onApplicationEvent(MySpringEvent event) {
+                throw new RuntimeException("故意抛出异常");
+            }
+        });
 
         context.publishEvent(new MySpringEvent("hello,world"));
 
