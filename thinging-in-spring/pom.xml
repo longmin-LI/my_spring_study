@@ -40,6 +40,7 @@
         <module>generic</module>
         <module>event</module>
         <module>annotations</module>
+        <module>environment</module>
     </modules>
     <properties>
         <spring.version>5.2.2.RELEASE</spring.version>
