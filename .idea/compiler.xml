@@ -13,6 +13,7 @@
         <module name="valIdation" />
         <module name="aop-features" />
         <module name="il8n" />
+        <module name="questions" />
         <module name="annotations" />
         <module name="generic" />
         <module name="configuration-metadata" />
@@ -43,6 +44,7 @@
       <module name="generic" target="8" />
       <module name="il8n" target="8" />
       <module name="ioc-container-overview" target="8" />
+      <module name="questions" target="8" />
       <module name="resource" target="8" />
       <module name="spring-aop-overview" target="8" />
       <module name="spring-bean" target="8" />
