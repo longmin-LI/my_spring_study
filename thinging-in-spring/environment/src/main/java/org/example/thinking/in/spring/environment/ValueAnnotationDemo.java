@@ -2,6 +2,7 @@ package org.example.thinking.in.spring.environment;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
  * @author lilongmin
@@ -22,7 +23,9 @@ public class ValueAnnotationDemo {
         context.refresh();
 
         ValueAnnotationDemo bean = context.getBean(ValueAnnotationDemo.class);
+
         System.out.println(bean.name);
+
         context.close();
     }
 }

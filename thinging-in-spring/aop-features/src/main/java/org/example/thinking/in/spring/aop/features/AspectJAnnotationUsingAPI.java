@@ -1,6 +1,7 @@
 package org.example.thinking.in.spring.aop.features;
 
 import org.example.thinking.in.spring.aop.features.aspect.AspectConfiguration;
+import org.springframework.aop.AfterReturningAdvice;
 import org.springframework.aop.MethodBeforeAdvice;
 import org.springframework.aop.aspectj.annotation.AspectJProxyFactory;
 
@@ -22,7 +23,16 @@ public class AspectJAnnotationUsingAPI {
             @Override
             public void before(Method method, Object[] args, Object target) throws Throwable {
                 if("put".equals(method.getName()) && args.length == 2){
-                    System.out.printf("当前存放的是Key: %s, value：%s %n", args[0], args[1]);
+                    System.out.printf("当前存放的是Key: %s, value：%s \n", args[0], args[1]);
+                }
+            }
+        });
+        //添加 AfterReturningAdvice
+        proxyFactory.addAdvice(new AfterReturningAdvice() {
+            @Override
+            public void afterReturning(Object returnValue, Method method, Object[] args, Object target) throws Throwable {
+                if("put".equals(method.getName()) && args.length == 2){
+                    System.out.printf("当前存放的是Key: %s, value：%s \n, 之前关联的value ： %s", args[0], args[1], returnValue);
                 }
             }
         });
@@ -31,6 +41,7 @@ public class AspectJAnnotationUsingAPI {
         //正确的调用，应该用代理对象
         Map<String,Object> proxy = proxyFactory.getProxy();
         proxy.put("1","A");
+        proxy.put("1","B");
         System.out.println(cache.get("1"));
     }
 }

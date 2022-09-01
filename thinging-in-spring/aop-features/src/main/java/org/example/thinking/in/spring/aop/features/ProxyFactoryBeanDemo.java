@@ -19,6 +19,8 @@ public class ProxyFactoryBeanDemo {
         EchoService service = applicationContext.getBean("echoServiceProxyFactoryBean", EchoService.class);
 
         System.out.println(service.echo("hello, world"));
+
         applicationContext.close();
+
     }
 }
