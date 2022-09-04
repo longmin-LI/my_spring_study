@@ -5,6 +5,6 @@
         https://www.springframework.org/schema/beans/spring-beans.xsd
 ">
     <bean id="yamlMap" class="org.springframework.beans.factory.config.YamlMapFactoryBean">
-        <property name="resources" value="META-INF/user.yaml"/>
+        <property name="resources" value="user.yaml"/>
     </bean>
 </beans>
