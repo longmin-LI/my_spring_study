@@ -16,6 +16,6 @@ public class AnnotatedBeanDefinitionParseDemo {
         beanDefinitionReader.register(AnnotatedBeanDefinitionParseDemo.class);
         int beanDefinitionAfter = beanFactory.getBeanDefinitionCount();
         System.out.println(beanDefinitionAfter - beanDefinitionsBefore);
-        System.out.println(beanFactory.getBean("annotatedBeanDefinitionParseDemo",AnnotatedBeanDefinitionParseDemo.class));
+        System.out.println(beanFactory.getBean("annotatedBeanDefinitionParseDemo", AnnotatedBeanDefinitionParseDemo.class));
     }
 }
