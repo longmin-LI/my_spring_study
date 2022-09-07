@@ -41,6 +41,7 @@ public class AsyncEventHandlerDemo {
                     if(!taskExecute.isShutdown()){
                         taskExecute.shutdown();
                     }
+                    System.out.println("关闭应用上下文");
                 }
             });
 
